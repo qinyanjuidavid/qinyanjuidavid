@@ -5,7 +5,7 @@
 
 [![Twitter: day_qinyanjui](https://img.shields.io/twitter/follow/day_qinyanjui?style=social)](https://twitter.com/day_qinyanjui)
 [![Linkedin: day-qinyanjui](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/day-qinyanjui-2812bb186/)](https://www.linkedin.com/in/day-qinyanjui-2812bb186/)
-[![website](https://img.shields.io/badge/Website-46a2f1.svg-orange?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://coderpass.herokuapp.com/)](https://coderpass.herokuapp.com/)
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://coderpass.herokuapp.com/)](https://coderpass.herokuapp.com/)
 [![GitHub qinyanjuidavid](https://img.shields.io/github/followers/qinyanjuidavid?label=follow&style=social)](https://github.com/qinyanjuidavid)
 
 ## <img src="https://media.giphy.com/media/aUR6unOaMpjflMx3SZ/giphy.gif" width="50"> A little more about me...  
