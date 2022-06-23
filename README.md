@@ -1,7 +1,8 @@
 ##  Hi, I am Day Qinyanjui 👋
 
-<p><em>Backend Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
+*Backend Web Developer* <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="18" /> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" height="18" /> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <img align='right' src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="230">
+
 
 [![Twitter: day_qinyanjui](https://img.shields.io/twitter/follow/day_qinyanjui?style=social)](https://twitter.com/day_qinyanjui)
 [![Linkedin: day-qinyanjui](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/day-qinyanjui-2812bb186/)](https://www.linkedin.com/in/day-qinyanjui-2812bb186/)
