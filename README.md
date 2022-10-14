@@ -1,39 +1,13 @@
-##  Hi, I am Day Qinyanjui 👋
+### Hi there <a href="https://www.coderpass.herokuapp.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
-*Backend Web Developer* <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="18" /> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" height="18" /> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-<img align='right' src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="230">
+I am David Kinyanjui, a passionate self-taught Backend web developer. my passion for software lies with dreaming up ideas and making them come true with elegant backend code.
 
+- 🔭 &nbsp;I’m currently working on something cool :wink:
+- 🌱 &nbsp;I’m currently learning Flutter and DevOps
+- 📫 &nbsp;How to reach me: [@day_qinyanjui](https://twitter.com/day_qinyanjui) or <a rel="me" href="mailto:davidkinyanjui052@gmail.com">Day Qinyanjui</a>
+- 👨‍💻 &nbsp;Read more about my projects at [coderpass.com](https://www.coderpass.herokuapp.com)
+- ⚡ &nbsp;Fun fact: I :heart: Hiking and Gaming
 
-[![Twitter: day_qinyanjui](https://img.shields.io/twitter/follow/day_qinyanjui?style=social)](https://twitter.com/day_qinyanjui)
-[![Linkedin: day-qinyanjui](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/day-qinyanjui-2812bb186/)](https://www.linkedin.com/in/day-qinyanjui-2812bb186/)
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://coderpass.herokuapp.com/)](https://coderpass.herokuapp.com/)
-[![GitHub qinyanjuidavid](https://img.shields.io/github/followers/qinyanjuidavid?label=follow&style=social)](https://github.com/qinyanjuidavid)
-
-## <img src="https://media.giphy.com/media/aUR6unOaMpjflMx3SZ/giphy.gif" width="50"> A little more about me...  
-
-```python
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
-
-class SoftwareEngineer:
-
-    def __init__(self, name, role, email):
-        self.name = name
-        self.role = role
-        self.email= email
-
-    def say_hi(self):
-        print("Thanks for dropping by, hope you find some of my work interesting.")
-
-if __name__=="__main__":
-    me = SoftwareEngineer(
-    "Day Qinyanjui",
-    "Backend Engineer",
-    "davidkinyanjui052@gmail.com"
-    )
-    me.say_hi()
-```
-
-## 💬 Ask me about
+### 💬 Ask me about
 - Backend web development
 - Mobile development (Flutter)
