@@ -9,9 +9,9 @@ My name is David Kinyanjui, I am a passionate self-taught Backend web developer.
 - ⚡ &nbsp;Fun fact: I :heart: Hiking and Gaming
 
 ### 🚀 Projects
-- Tabibu Health Care
-- Narabell
-- Taskido
+- [Tabibu Health Care](https://github.com/qinyanjuidavid/Tabibu-Health-Care)
+- [Narabell](https://github.com/qinyanjuidavid/Narabell)
+- [Taskido](https://github.com/qinyanjuidavid/Taskido)
 
 ### 💬 Ask me about
 - Backend web development
