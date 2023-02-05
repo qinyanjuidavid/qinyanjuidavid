@@ -8,6 +8,11 @@ My name is David Kinyanjui, I am a passionate self-taught Backend web developer.
 - 👨‍💻 &nbsp;Read more about my projects at [coderpass.com](https://coderpass.herokuapp.com)
 - ⚡ &nbsp;Fun fact: I :heart: Hiking and Gaming
 
+### 🚀 Projects
+- Tabibu Health Care
+- Narabell
+- Taskido
+
 ### 💬 Ask me about
 - Backend web development
 - Mobile development (Flutter)
