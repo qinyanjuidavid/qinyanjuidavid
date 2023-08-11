@@ -5,7 +5,7 @@ My name is David Kinyanjui, I am a passionate self-taught Software Engineer. My 
 - 🔭 &nbsp;I’m currently working on something cool :wink:
 - 🌱 &nbsp;I’m currently learning Flutter and DevOps
 - 📫 &nbsp;How to reach me: [@day_qinyanjui](https://twitter.com/day_qinyanjui) or <a rel="me" href="mailto:davidkinyanjui052@gmail.com">Day Qinyanjui</a>
-- 👨‍💻 &nbsp;Read more about my projects at [coderpass.com](https://coderpass.herokuapp.com)
+- 👨‍💻 &nbsp;Read more about my projects at [coderpass.com](https://day-lemon.vercel.app/)
 - ⚡ &nbsp;Fun fact: I :heart: Hiking and Gaming
 
 ### 🚀 Projects
