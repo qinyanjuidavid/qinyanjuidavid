@@ -5,7 +5,7 @@ My name is David, I am a passionate self-taught Software Engineer. My passion fo
 - 🔭 &nbsp;I’m currently working on something cool :wink:
 - 🌱 &nbsp;I’m currently learning DevOps
 - 📫 &nbsp;How to reach me: [@day_qinyanjui](https://twitter.com/day_qinyanjui) or <a rel="me" href="mailto:davidkinyanjui052@gmail.com">Day Qinyanjui</a>
-- 👨‍💻 &nbsp;Read more about my projects at [David Kinyanjui](https://day-lemon.vercel.app/)
+- 👨‍💻 &nbsp;Read more about my projects at [David Kinyanjui](https://dayqinyanjui.vercel.app/)
 - ⚡ &nbsp;Fun fact: I :heart: Hiking and Gaming
 
 ### 🚀 Projects
