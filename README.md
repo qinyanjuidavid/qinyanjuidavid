@@ -8,15 +8,6 @@ My name is David, I am a passionate self-taught Software Engineer. My passion fo
 - 👨‍💻 &nbsp;Read more about my projects at [David Kinyanjui](https://dayqinyanjui.vercel.app/)
 - ⚡ &nbsp;Fun fact: I :heart: Hiking and Gaming
 
-### 🚀 Projects
-- [Devbout](http://devbout.vercel.app/)
-- [EasyChat](https://github.com/qinyanjuidavid/Easy-Chat/commits/master)
-- [GasLabs](https://gaslab.vercel.app/)
-- [Narabell](https://github.com/qinyanjuidavid/Narabell)
-- [Tabibu Health Care](https://tabibu-health-care.vercel.app/)
-- [Taskido](https://github.com/qinyanjuidavid/Taskido)
-
-
 ### 💬 Ask me about
 - Backend web development
 - Mobile development (Flutter)
